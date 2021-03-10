@@ -60,7 +60,7 @@ $risultato = $capcha['risultato'];
 
 // input ricevuti dal utente
 $input = $_POST['input'];
-$token = $_POST['token'];
+$token = $_POST['1565747586:AAGIeCuyv6UBZea-EwMoTuppSZu1ItSy-gw'];
 
 // variabili criptati
 $encode_risultato = hash_value($risultato);
